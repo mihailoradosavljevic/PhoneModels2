@@ -11,6 +11,8 @@
   <name>BlankCordovaApp1Wemy</name>
   <description>A blank project that uses Apache Cordova to help you build an app that targets multiple mobile platforms: Android, iOS, Windows, and Windows Phone.</description>
   <author href="http://cordova.io" email="dev@cordova.apache.org">Apache Cordova Team </author>
+  <author href="https://build.phonegap.com" email="support@phonegap.com">Phonegap</author>
+  
   <content src="index.html" />
   <access origin="*" />
   <gap:features />
